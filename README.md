@@ -1,4 +1,3 @@
-
 # start_paper
 ### Jump-start your DESC paper or note
 
